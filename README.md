@@ -34,6 +34,17 @@
 > 国内访问 `raw.githubusercontent.com` 常常很慢，优先用 jsDelivr 镜像，或试
 > `https://gh-proxy.com/https://raw.githubusercontent.com/xiaohuya520/tvbox-dc/main/dc.json`。
 
+## 给 CineFlow 用（桌面版 / Android TV 版）
+
+CineFlow 的「自定义外部源」只识别**单仓里的 type=1（苹果CMS）直连站点**：不读多仓列表（dc.json 的 stores / urls），也不支持 type=3 的 csp 站点。本仓库的文件里只有 **mybox-pure.json** 全部是 type=1 直连站（15 个），用这个：
+
+- 订阅链接：`https://raw.githubusercontent.com/Liberniz/tvbox-dc/main/mybox-pure.json`
+- 国内镜像：`https://cdn.jsdelivr.net/gh/Liberniz/tvbox-dc@main/mybox-pure.json`
+
+导入方法：CineFlow → 设置 → 自定义外部源导入，粘贴上面的链接，点「导入并刷新」。
+
+> 注意：mybox.json 全部是 type=3 站点，导入 CineFlow 会一个可用站都没有；mybox-self.json 只有 15 个 type=1 站点能被识别（其余 109 个 type=3 会被跳过）。认准 mybox-pure.json。
+
 ## 格式说明（双兼容）
 
 `dc.json` / `dc_fast.json` / `dc_full.json` 同一个文件里同时提供两种多仓字段，适配不同壳子：
