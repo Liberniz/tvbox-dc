@@ -33,10 +33,6 @@
       "url": "https://raw.liucn.cc/box/m.json"
     },
     {
-      "name": "noimank",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
       "name": "ls660飞猫",
       "url": "https://www.ls660.com/TV/feimao.json"
     },
@@ -63,6 +59,10 @@
     {
       "name": "宝盒VIP",
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+    },
+    {
+      "name": "摸鱼儿",
+      "url": "https://6800.kstore.vip/fish.json"
     }
   ],
   "urls": [
@@ -99,10 +99,6 @@
       "name": "OK影视"
     },
     {
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "name": "noimank"
-    },
-    {
       "url": "https://www.ls660.com/TV/feimao.json",
       "name": "ls660飞猫"
     },
@@ -129,6 +125,10 @@
     {
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
       "name": "宝盒VIP"
+    },
+    {
+      "url": "https://6800.kstore.vip/fish.json",
+      "name": "摸鱼儿"
     }
   ]
 }
