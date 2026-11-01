@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/10/31/272e922132480799981a031067b6d722.jpg;md5;8605fb93b9d2ba66e702fdbfcc496159",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/11/02/c9050ddf2e4eb65bc925f27924695099.jpg;md5;a5006e8f9c77331a30309c0e5f138481",
   "sites": [
     {
       "key": "Douban",
@@ -14,7 +14,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261031】🐮",
+      "name": "🐮【更新日期:20261102】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -1025,6 +1025,32 @@
       "playerType": 2
     },
     {
+      "key": "PanMarket",
+      "name": "🐼┃网盘┃应用",
+      "type": 3,
+      "api": "csp_PanMarket",
+      "searchable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "categories": [
+          {
+            "name": "Fongmi影视",
+            "url": "https://pan.quark.cn/s/7129866d8655"
+          },
+          {
+            "name": "OK影视",
+            "url": "https://pan.quark.cn/s/cc286c991136"
+          },
+          {
+            "name": "Kazumi",
+            "url": "https://pan.quark.cn/s/e77ca870e15e"
+          }
+        ]
+      }
+    },
+    {
       "key": "alllive",
       "name": "🎮┃游戏┃直播",
       "type": 3,
@@ -1217,7 +1243,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.4kcz.com/"
+      "ext": "https://cz01.vip"
     },
     {
       "key": "csp_SP360",
@@ -3113,6 +3139,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me"
+    },
+    {
+      "key": "电影港",
+      "name": "电影港 • 磁力",
+      "type": 3,
+      "api": "csp_DianYingG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "阿里云盘",
@@ -5362,6 +5397,16 @@
       "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw="
     },
     {
+      "key": "shangtou",
+      "name": "🫠┆上头┆4K",
+      "type": 3,
+      "api": "csp_ShangTou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Ab723PUSGcnjpXT6567J5El7ZP+7lqBKJnQzkeqdAaVU29VedG35Y36vvAZWXOyL7tUL38RB0IWmvwZj4wWtuwyEOmAg2Nbpi1z46QBiBTmY"
+    },
+    {
       "key": "XieHui",
       "name": "🫖┆歇会┆4K",
       "type": 3,
@@ -5899,9 +5944,8 @@
       "genre": "shortdrama",
       "filterable": 1,
       "ext": {
-        "host": "https://short.fishcloud.top",
-        "quality": "1080p",
-        "danmu": false
+        "host": "https://honhon.wya6.com",
+        "quality": "1080p"
       }
     },
     {
