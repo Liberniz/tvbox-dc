@@ -2489,7 +2489,7 @@
       "type": 3,
       "api": "csp_App3Q",
       "ext": {
-        "host": "https://45.150.167.18:8000",
+        "host": "https://skykb.com",
         "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
         "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
         "deviceBrand": "vivo",
@@ -2562,7 +2562,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
         "version": "3.0.7.0",
         "decrypt": "1"
       }
@@ -4979,13 +4979,13 @@
     },
     {
       "name": "⭐橘汁┃快速",
-      "key": "Woshinidie",
+      "key": "Juzhi",
       "type": 3,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
-      "api": "csp_Woshinidie",
+      "api": "csp_JuzhiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "Juzhi"
     },
     {
       "name": "⭐热播┃快速",
@@ -5549,26 +5549,6 @@
       "ext": "ASH3HkV5cxNhNR9+uQe0sWYxUWHzEywHT3rcYOx+wsK4Jx+sBd0qMO9kFic1Rc1osAMsAsTlMgabd1Ky2kmzQ/Y="
     },
     {
-      "key": "mandian",
-      "name": "🐢┆慢点┆4K",
-      "type": 3,
-      "api": "csp_ManDian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AU08qHcswQQ9GUNUYMdLgyq8HzPCy1gUxku0nrQgOwfSJrT0LgwdrXoWPVK+x4n+QQ8KbuVPdzA5/U2YL7fQmH8="
-    },
-    {
-      "key": "ZhiWo",
-      "name": "🌙┆知我┆4K",
-      "type": 3,
-      "api": "csp_ZhiWo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AX1Vvf8Pdib7pGaiG52YtJfoH7J54wUt+/pfCo7QJrhIKMK6XXxVbbJG3pw3yHdOUVcBrTyo1EmM8M91pY30AUE="
-    },
-    {
       "key": "xiaozuo",
       "name": "🍃┆等风┆4K",
       "type": 3,
@@ -5591,6 +5571,39 @@
         "site": "https://kanju.ai",
         "playname": "ly"
       }
+    },
+    {
+      "key": "余温",
+      "name": "🧣┆余温┆4K",
+      "type": 3,
+      "api": "csp_App88",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "AQ97WpArbhKNw60bLglQNeYUtD0UDI1f65KexQmYfUaCO+V3+a8GbSmYodUtb12Q0LQHfv6KdocBICzIhrySNikxI0hWUixd5n/optwTcVcU"
+    },
+    {
+      "key": "夜猫",
+      "name": "🦉┆夜猫┆4K",
+      "type": 3,
+      "api": "csp_App88",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "AR/RtwIvqcmx6ZGW8sbi7eFkPpUl48Y1f1lgZfeNDxJrNKwGVF/fADYHz0psPEF7KvDaccyt60bwK9lzVNUIhPUxyKFOo7u9iPyZxUTbxyAZ"
+    },
+    {
+      "key": "拼图",
+      "name": "🧩┆拼图┆4K",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "Ad2ohQzN3yKRQEHDYDkK1JK8CL3Se9zIBI5Q4VBRKeR6pIWjoaXOktd6l4RWPQi46M/xcnQCEN8R1PIqXGBDZPds5tolkQ4pUoWAaOKxXmPk"
     },
     {
       "key": "嗑剧",
