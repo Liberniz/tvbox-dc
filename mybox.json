@@ -5430,6 +5430,26 @@
       "ext": "Acf4n+FgSJlps29HFqyt+ECG19M+iLto9fxzwikME3YOnRFfaIWR3C9CZF+/o2jh4T6D4bOxYn8j775k1TLOsSHsG7tlKBqeENs8VhcKgZS5u7Gb8/LXYDutl7a21jsXLw=="
     },
     {
+      "key": "AppZy_wanqing",
+      "name": "🌇┆晚晴┆4K",
+      "type": 3,
+      "api": "csp_AppZy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARO+hB5vdFdHClVkrLOIgsdq6Ox6dBaesfwPqkaGkkI/kFSRmoG2vqoBgQJ4rQUfq9S/OqwEWkP8qRb4VM8DrYnl2UGeGnTvJjwdn+dbV8Nh"
+    },
+    {
+      "key": "AppZy_qiushui",
+      "name": "🪷┆秋水┆4K",
+      "type": 3,
+      "api": "csp_AppZy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AXYmhdoG4mVUI1O/8DD7P+twDiSLZh1j9iNOR/xHURJp2Aw4rTsWEymW/RcJqLNohr1iR09cYEj6cCGDSNc95aBhNQfelqiC0gTqRSXniGO3"
+    },
+    {
       "key": "jz",
       "name": "🍵┆煮雪┆4K",
       "type": 3,
@@ -6076,6 +6096,16 @@
       "changeable": 1
     },
     {
+      "key": "AppGhg_ghg",
+      "name": "🪁┆纸鸢┆动漫",
+      "type": 3,
+      "api": "csp_AppGhg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AYr9F7AdUNpxxaMgCJt9gAPT8QvrTqyZsZ/xpbyT3J0nHUzUdZ2B+yBSi22lsd4bvtxMgZD1L6+vSvAGsQknqmmjJrYKpVx/HEqmS1KsH554"
+    },
+    {
       "key": "dadun",
       "name": "😴┆打盹┆动漫",
       "type": 3,
@@ -6458,14 +6488,6 @@
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
       "name": "大洋马直播",
       "type": 0,
       "url": "./lib/deyzb.m3u",
@@ -6768,6 +6790,14 @@
       "name": "B站直播",
       "type": 0,
       "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
