@@ -45,6 +45,17 @@
       "filterable": 1
     },
     {
+      "key": "guangsu",
+      "name": "光速资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "maoyan",
       "name": "猫眼资源",
       "type": 1,
